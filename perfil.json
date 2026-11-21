@@ -1,0 +1,20 @@
+{
+  "Versao": "AUTO",
+  "Idioma": "AUTO",
+  "Bits": "AUTO",
+  "Programas": [
+    "Word",
+    "Excel",
+    "PowerPoint",
+    "Outlook",
+    "OneDrive"
+  ],
+  "Visio": false,
+  "Project": false,
+  "Remover": true,
+  "Atualizar": true,
+  "Fechar": true,
+  "Reiniciar": false,
+  "OtimizarAuto": true,
+  "SalvoEm": "21/11/2026 00:40"
+}
